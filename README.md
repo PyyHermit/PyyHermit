@@ -1,5 +1,4 @@
-Who am I? 👋
-
+Beggineer programmer studying python and django.
 <!--
 **PyyHermit/PyyHermit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
